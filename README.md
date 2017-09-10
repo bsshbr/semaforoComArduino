@@ -16,7 +16,6 @@ d. Um relatório sobre o projeto está disponibilizado.
 
 
 e. LISTA DE MATERIAIS
-
   
 	Protoboard (800 pinos) x 1 
   

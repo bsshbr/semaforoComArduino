@@ -18,11 +18,8 @@ d. Um relatório sobre o projeto está disponibilizado.
 e. LISTA DE MATERIAIS
   
 	Protoboard (800 pinos) x 1 
-  
 	Arduino UNO R3 x 1  
-  
 	Resistor 220ohm x 8  
-  
 	Resistor 10K x 1
-  
 	PushButton x 1
+	LED x 8
